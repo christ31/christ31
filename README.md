@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I have interest in console emulation.
+
+It's all started when I first reading emulation update blog on Dolphin Emulator back in 2014.
+
+Currently learning on Front-end Development.
+
+OS Used: Fedora 36 and Windows 10
+
+
 <!--
 **christ31/christ31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
