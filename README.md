@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I have some interest in console emulation and linux.
+🔭 I have some interest in console emulation and linux.
+👀 It's all started when I first stumble on Dolphin Emulator's emulation update blog back in 2014.
 
-It's all started when I first stumble on Dolphin Emulator's emulation update blog back in 2014.
+🌱 Currently learning on **Front-end Development**.
 
-Currently learning on Front-end Development.
-
-OS Used: Fedora 36 and Windows 10
+🐧 OS Used: Fedora 37 and Windows 10
 
 <!--
 **christ31/christ31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
