@@ -2,7 +2,7 @@
 
 🔭 I have some interest in console emulation and linux.
 
-👀 It's all started when I first stumble on Dolphin Emulator's emulation update blog back in 2014.
+👀 It's all started when I first stumble on Dolphin Emulators emulation update blog back in 2014.
 
 🌱 Currently learning on **Front-end Development**.
 
