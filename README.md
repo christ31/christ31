@@ -6,7 +6,7 @@
 
 🌱 Currently learning on **Front-end Development**.
 
-🐧 OS Used: Fedora 37 and Windows 10
+🐧 OS Used: Fedora 38 and Windows 10
 
 <!--
 **christ31/christ31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
