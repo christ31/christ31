@@ -4,7 +4,7 @@
 
 👀 It's all started when I first stumble on Dolphin Emulators emulation update blog back in 2014.
 
-🌱 Currently learning on **Front-end Development**.
+🌱 Currently learning **Front-end Development**.
 
 🐧 OS Used: Fedora 38 and Windows 10
 
