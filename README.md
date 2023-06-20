@@ -4,9 +4,14 @@
 
 👀 It's all started when I first stumble on Dolphin Emulators emulation update blog back in 2014.
 
-🌱 Currently learning **Front-end Development**.
+🌱 Currently learning **UX Design**.
 
 🐧 OS Used: Fedora 38 and Windows 10
+
+
+🧾 Certificate Done:
+- IT Support
+- Introduction to Front-End Development
 
 <!--
 **christ31/christ31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
